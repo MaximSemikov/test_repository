@@ -8,5 +8,5 @@ for($i=0;$i<10;$i++) {
 	$array[]=$i;
 }
 echo '<pre>';
-printr($array);
+print_r($array);
 echo '</pre>';
