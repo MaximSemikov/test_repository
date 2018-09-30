@@ -1,5 +1,5 @@
 <?php
 	echo 'Hello world';
-	for(i=0;i<10;i++){
-		echo 'i='.i.'\n';
+	for($i=0;$i<10;$i++){
+		echo '$i='.$i.'\n';
 	}
